@@ -19,4 +19,4 @@ tags: 二音
 
 &ensp;&ensp;&ensp;&ensp;1984/02/03 github投稿：https://github.com/voiceofnnez/nnez.icu https://github.com/voiceofnnez/reform.nnez.icu
 
-&ensp;&ensp;&ensp;&ensp;1984/02/13 完成github~~自动~~部署，每天（utc+8）22点自动更新。
+&ensp;&ensp;&ensp;&ensp;1984/02/13 完成github~~自动~~部署，每天（utc+8）24点自动更新。
