@@ -5,7 +5,9 @@ tags:
 
 <center><img src="/welcome/welcome.png"/></center>
 
-<center><a href="/%E6%8E%A8%E8%8D%90%E9%98%85%E8%AF%BB" target="_blank">推荐阅读</a>|<a href="https://bbs.nnez.icu" target="_blank">论坛闲聊</a>|<a href="https://github.com/voiceofnnez/nnez.icu" target="_blank">网址发布</a></center>
+<center><a href="/%E6%8E%A8%E8%8D%90%E9%98%85%E8%AF%BB" target="_blank">推荐阅读</a>|<a href="https://bbs.nnez.icu" target="_blank">论坛闲聊</a>|<a href="https://github.com/nnez-icu/nnez.icu" target="_blank">网址发布</a>|<a href="/contact/" target="_blank">投稿方式</a>
+</center>
+
 
 <center>论坛向所有学生及教职工开放：<a href="https://bbs.nnez.icu" target="_blank">bbs.nnez.icu</a></center>
 
@@ -31,4 +33,5 @@ tags:
 + [哪所学校三个月内发生两次学生跳楼事件？](/史记/#xszl)
 
 <center>點★擊★就★開    安★全★無★毒</center><p><center><a herf="https://www.nnez.icu">答案尽在nnez.icu</a>
-    <p><p><center>联系我们：voiceofnnez@protonmail.com </center>
+    <p><p><center>联系我们：voiceofnnez@protonmail.com </center><p>
+    <center><a href="/contact/" target="_blank">投稿请点这里</a></center>
