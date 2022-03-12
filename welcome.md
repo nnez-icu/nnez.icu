@@ -5,7 +5,7 @@ tags:
 
 <center><img src="/welcome/welcome.png"/></center>
 
-<center><a href="/%E6%8E%A8%E8%8D%90%E9%98%85%E8%AF%BB" target="_blank">推荐阅读</a>|<a href="https://bbs.nnez.icu" target="_blank">论坛闲聊</a>|<a href="https://github.com/nnez-icu/nnez.icu" target="_blank">网址发布</a>|<a href="/contact/" target="_blank">投稿方式</a>
+<center><a href="https://bbs.nnez.icu" target="_blank">论坛闲聊</a>|<a href="https://github.com/nnez-icu/nnez.icu" target="_blank">网址发布</a>|<a href="/contact/" target="_blank">投稿方式</a>
 </center><p>
 <center>论坛向所有学生及教职工开放：<a href="https://bbs.nnez.icu" target="_blank">bbs.nnez.icu</a></center>
 
