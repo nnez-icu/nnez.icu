@@ -1,3 +1,3 @@
 # nnez.icu
-主站：https://www.nnez.icu  
-~~E中改革时间线：https://reform.nnez.icu/archives/~~
+主站：https://www.nnez.icu
+每天0点（utc+8）服务器会从该仓库定时更新，欢迎pr。
