@@ -1,7 +1,7 @@
 ---
 title: 新政
 date: 1984-01-02 07:32:25
-tags: 架空世界
+tags: 作品
 ---
 &ensp;&ensp;&ensp;&ensp;转自 柠檬泡椒手撕鸽子精
 
