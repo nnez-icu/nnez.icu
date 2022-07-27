@@ -10,7 +10,6 @@ tags: 二音
 目前可用的投稿方式：
 
 + 邮箱投稿：发送邮件至[voiceofnnez@protonmail.com](mailto:voiceofnnez@protonmail.com)
-+ 论坛投稿：[点击这里](https://bbs.nnez.icu)注册账号或使用已有账号发帖，并加上`投稿`以及与作品类型相关的标签，管理员审核后会决定是否放上站内
 + Github投稿：[前往Github仓库](https://github.com/nnez-icu/nnez.icu)提Pull Request即可
 
 「作品是为何而诞生，为何而创作……」
