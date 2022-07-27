@@ -4,8 +4,8 @@ date: 1984-02-04 00:35:33
 tags: [玉音放送]
 ---
 
-{% aplayer "北宁二中校歌remake" "未署名" "https://www.nnez.icu/北宁二中校歌remake/蜜雪冰城（意味深.wav" %}
-<a href="https://www.nnez.icu/北宁二中校歌remake/蜜雪冰城（意味深.wav" download="北宁二中校歌remake.wav">点击下载</a>
+{% aplayer "北宁二中校歌remake" "未署名" "/北宁二中校歌remake/蜜雪冰城（意味深.wav" %}
+<a href="/北宁二中校歌remake/蜜雪冰城（意味深.wav" download="北宁二中校歌remake.wav">点击下载</a>
 
 “使用Synthesizer V Lite制作。
 使用五维介质·赤羽Lite声库。
