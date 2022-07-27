@@ -5,7 +5,7 @@ tags:
 
 <center><img src="/welcome/welcome.png"/></center>
 
-<center><a href="https://github.com/nnez-icu/nnez.icu" target="_blank">网址发布</a>|<a href="/contact/" target="_blank">投稿方式</a>
+<a href="/contact/" target="_blank">投稿方式</a>
 </center><br>
 
 ---
