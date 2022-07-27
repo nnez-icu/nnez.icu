@@ -5,7 +5,7 @@ tags:
 
 <center><img src="/welcome/welcome.png"/></center>
 
-<a href="/contact/" target="_blank">投稿方式</a>
+<center><a href="/contact/" target="_blank">投稿方式</a>
 </center><br>
 
 ---
