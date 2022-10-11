@@ -12,6 +12,8 @@ tags: 二音
 + 邮箱投稿：发送邮件至[voiceofnnez@protonmail.com](mailto:voiceofnnez@protonmail.com)
 + Github投稿：[前往Github仓库](https://github.com/nnez-icu/nnez.icu)提Pull Request即可
 
+附GPG：5AAF30531B9E553E
+
 「作品是为何而诞生，为何而创作……」
 
 「我们为了什么而创作……只要认清那点就毫无问题……就算刻在上头的不是自己的名字也没有关系……」
