@@ -3,10 +3,13 @@ date: 1984-12-31 23:59:59
 tags: 
 ---
 
-<center><img src="/welcome/welcome.png"/></center>
+<center><img src="/welcome/welcome.png"/></center><br>
 
-<center><a href="https://github.com/nnez-icu/nnez.icu" target="_blank">github</a>|<a href="/contact/" target="_blank">投稿方式</a>
-</center><br>
+<center>目前地址：1.nnez.icu 2.nnez-icu.github.io
+</center>
+<br>
+<center><a href="https://github.com/nnez-icu/nnez.icu" target="_blank">网址发布页</a>|<a href="/contact/" target="_blank">投稿方式</a>
+</center>
 
 ---
 #### 推荐阅读
@@ -31,7 +34,5 @@ tags:
 + [哪所学校三个月内发生两次学生跳楼事件？](/史记/#xszl)
 + [哪所学校连续封校3周，每周只休7小时？](/)
 
-<center>點★擊★就★開    安★全★無★毒</center><br>
-<center><a herf="https://www.nnez.icu">答案尽在nnez.icu</a></center>
 <p><center>联系我们：voiceofnnez@protonmail.com </center><br>
-<center><a href="/contact/" target="_blank">投稿请点这里</a></center></p>
+<center>友情链接：<a href="https://nnsz.icu" target="_blank">南三之音（nnsz.icu）</a></center></p>
