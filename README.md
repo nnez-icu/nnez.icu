@@ -3,7 +3,7 @@ date: 1984-12-31 23:59:59
 tags: 
 ---
 
-<center><img src="/readme/welcome.png"/></center><br>
+<center><img src="/README/welcome.png"/></center><br>
 <br>
 
 
