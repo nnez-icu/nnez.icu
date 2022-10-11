@@ -5,8 +5,9 @@ tags:
 
 <center><img src="/welcome/welcome.png"/></center><br>
 <br>
-<center>目前地址：1.nnez.icu 2.nnez-icu.github.io
-</center>
+
+
+<center>目前地址：1.nnez.icu 2.nnez-icu.github.io</center>
 <br>
 <center><a href="https://github.com/nnez-icu/nnez.icu" target="_blank">网址发布页</a>|<a href="/contact/" target="_blank">投稿方式</a>
 </center>
@@ -33,6 +34,8 @@ tags:
 + [哪所学校生源最好的一届遭遇了最差的改革？](/史记)
 + [哪所学校三个月内发生两次学生跳楼事件？](/史记/#xszl)
 + [哪所学校连续封校3周，每周只休7小时？](/)
+
+---
 
 <p><center>联系我们：voiceofnnez@protonmail.com </center><br>
 <center>友情链接：<a href="https://nnsz.icu" target="_blank">南三之音（nnsz.icu）</a></center></p>
