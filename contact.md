@@ -12,7 +12,9 @@ tags: 二音
 + 邮箱投稿：发送邮件至[voiceofnnez@protonmail.com](mailto:voiceofnnez@protonmail.com)
 + Github投稿：[前往Github仓库](https://github.com/nnez-icu/nnez.icu)提Pull Request即可
 
-附GPG：5AAF30531B9E553E
+附GPG：
+- ~~5AAF30531B9E553E~~ expired
+- B6D01A3CD48B0209
 
 「作品是为何而诞生，为何而创作……」
 
