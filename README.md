@@ -33,5 +33,4 @@ tags:
 ---
 
 <p><center>联系我们：voiceofnnez@protonmail.com </center><br>
-<center>友情链接：<a href="https://nnsz.icu" target="_blank">南三之音（nnsz.icu）</a></center></p>
 
